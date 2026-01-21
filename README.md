@@ -26,7 +26,11 @@ clear business insights rather than just visuals.
 
 ## 🗺 Project Roadmap
 - **Day 0**: Project setup & planning
-- **Day 1**: Power BI basics & intro to DAX
+- **Day 1**: Day 1: Built initial Power BI dashboard with core DAX measures
+- Set up fact table and basic report structure
+- Implemented foundational DAX measures
+- Created first interactive sales overview dashboard
+
 - **Day 2**: Date table & time intelligence
 - **Day 3**: Data modeling (star schema)
 - **Day 4+**: Profit analysis, top/bottom products, dashboard polish
