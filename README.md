@@ -32,7 +32,13 @@ clear business insights rather than just visuals.
 - Created first interactive sales overview dashboard
 
 - **Day 2**: Date table & time intelligence
-- **Day 3**: Data modeling (star schema)
+  
+- **Day 3**: ## Day 3 Progress
+- Built Top & Bottom 5 product analysis using visual Top N filters
+- Added profit vs discount scatter analysis for business insight
+- Implemented a product-level tooltip page for contextual detail
+- Strengthened report interactivity and analytical storytelling
+
 - **Day 4+**: Profit analysis, top/bottom products, dashboard polish
 
 ---
